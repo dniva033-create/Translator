@@ -1,0 +1,5 @@
+# 🤖 Telegram Bot Token (Get from @BotFather)
+BOT_TOKEN=8978754686:AAHdU9aLCuajvnHCQCaO1_EHMeaMlhitlU4
+
+# ⚡ Groq API Key (Get from console.groq.com)
+GROQ_API_KEY=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
